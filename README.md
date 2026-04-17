@@ -49,6 +49,7 @@
 - **Descript** — audio + video editing with AI
 - **Notion AI** — in-editor drafting
 - **Grammarly + Hemingway** — polish
+- [**MindMap AI** ](https://mindmapai.app/text-summarizer) — AI-powered tool that converts notes, documents, and research into structured visual mind maps for content planning, idea organization, and writing workflows
 
 ### Courses
 - [**Freelance Writing Mastery — $10K/month**](https://sikho.ai/course/freelance-writing-mastery-path-10000)
