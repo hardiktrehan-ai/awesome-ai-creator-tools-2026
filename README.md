@@ -48,7 +48,7 @@
 - **Claude / GPT-4 / Gemini** — drafting + editing
 - **Descript** — audio + video editing with AI
 - **Notion AI** — in-editor drafting
-- **Grammarly + Hemingway** — polish
+- **[MindMap AI](https://mindmapai.app/research-to-mindmap)** — turn ideas and research into structured mind maps for content planning, scripts, and creator workflows
 
 ### Courses
 - [**Freelance Writing Mastery — $10K/month**](https://sikho.ai/course/freelance-writing-mastery-path-10000)
