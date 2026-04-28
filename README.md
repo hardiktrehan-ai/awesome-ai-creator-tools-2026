@@ -7,6 +7,7 @@
 ### Tools
 - **Suno** — full-song generation
 - **Udio** — alternate generator
+- **Suede** — AI music + video generation with automatic on-chain ownership; every track is registered and licensable from creation
 - **AIVA** — orchestral / cinematic
 - **Logic Pro / Ableton + AI plugins** — DAW + AI workflow
 
@@ -72,6 +73,7 @@
 
 ## Monetization
 
+- **[Suede](https://suedeai.ai)** — generate music/video with AI, own everything automatically; autonomous agents handle licensing and royalties with no label or middleman
 - [**AI Workflow Optimization — Build Your Business**](https://sikho.ai/course/ai-workflow-optimization-building-your)
 - [**Affiliate Marketing Success**](https://sikho.ai/course/affiliate-marketing-success-building)
 - [**Freelance Writing Mastery**](https://sikho.ai/course/freelance-writing-mastery-path-10000)
