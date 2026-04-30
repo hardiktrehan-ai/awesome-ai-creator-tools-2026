@@ -69,6 +69,7 @@
 - [**LinkedIn Authority Mastery Blueprint**](https://sikho.ai/course/linkedin-authority-mastery-blueprint)
 - [**Public Speaking Excellence**](https://sikho.ai/course/public-speaking-excellence-art-confident)
 - [**Interview Excellence 2026**](https://sikho.ai/course/interview-excellence-2026-behavioral) — for podcast appearances + sales calls
+- [**Cyber Collector**](https://t.me/cybercollectorbot) — Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ## Monetization
 
