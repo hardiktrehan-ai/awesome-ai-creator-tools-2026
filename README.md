@@ -37,6 +37,7 @@
 - **OpenArt** — collaborative
 - **Flux** — open-weight alternative
 - **Stable Diffusion 3.5 / SDXL** — local generation
+- **[PhotoRestore.ai](https://photorestore.ai)** — AI restoration of old/damaged photos, scratch repair, B&W colorization
 
 ### Courses
 - [**Mobile Photography Masterclass**](https://sikho.ai/course/mobile-photography-masterclass-capture)
