@@ -37,6 +37,7 @@
 - **OpenArt** — collaborative
 - **Flux** — open-weight alternative
 - **Stable Diffusion 3.5 / SDXL** — local generation
+- **[Seedream AI Studio](https://seedream4.video/)** — multi-model platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena, free tier, up to 10 reference images + Kling 2.1 video generation
 
 ### Courses
 - [**Mobile Photography Masterclass**](https://sikho.ai/course/mobile-photography-masterclass-capture)
