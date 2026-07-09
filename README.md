@@ -24,6 +24,7 @@
 - **Sora (OpenAI)** — long-form, narrative
 - **Kling 2.0** — hyper-realistic
 - **Luma Dream Machine** — fast iteration
+- **[ImagineClip](https://imagineclip.com)** — avatar clips and social-ready AI videos
 
 ### Courses
 - [**Cinematic AI Filmmaking with Kling 2.0**](https://sikho.ai/course/cinematic-ai-filmmaking-kling-20)
