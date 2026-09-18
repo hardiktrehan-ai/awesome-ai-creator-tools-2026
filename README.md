@@ -24,6 +24,7 @@
 - **Sora (OpenAI)** — long-form, narrative
 - **Kling 2.0** — hyper-realistic
 - **Luma Dream Machine** — fast iteration
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
 
 ### Courses
 - [**Cinematic AI Filmmaking with Kling 2.0**](https://sikho.ai/course/cinematic-ai-filmmaking-kling-20)
