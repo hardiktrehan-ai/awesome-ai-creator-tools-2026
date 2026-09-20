@@ -33,6 +33,7 @@
 ## Image + Photography
 
 ### Tools
+- [**Orkas**](https://orkas.ai/agents/image-studio/?source=gh_hardik) — ImageStudio produces posters, covers and social graphics inside an open-source, local-first desktop workforce whose Commander coordinates specialist agents.
 - **Midjourney** — aesthetic, mature ecosystem
 - **OpenArt** — collaborative
 - **Flux** — open-weight alternative
