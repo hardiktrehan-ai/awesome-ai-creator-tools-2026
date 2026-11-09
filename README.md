@@ -24,6 +24,7 @@
 - **Sora (OpenAI)** — long-form, narrative
 - **Kling 2.0** — hyper-realistic
 - **Luma Dream Machine** — fast iteration
+- **[Cyanvid](https://cyanvid.com/?utm_source=hardiktrehan-ai-awesome-ai-creator-tools-2026&utm_medium=directory&utm_campaign=backlinks)** — AI video generator from text or images; credit quotes before generate
 
 ### Courses
 - [**Cinematic AI Filmmaking with Kling 2.0**](https://sikho.ai/course/cinematic-ai-filmmaking-kling-20)
